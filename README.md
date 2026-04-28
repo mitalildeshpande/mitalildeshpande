@@ -2,7 +2,7 @@
 
 ### Data Scientist & Analyst @ Meta | LLM Evaluation • Dashboards • KPIs • GenAI
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mitalildeshpande.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mitalildeshpande.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mitalildeshpande.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mitalildeshpande)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitali-deshpande/)
 [![IEEE](https://img.shields.io/badge/IEEE-Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/9155712)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitalideshpande.md@gmail.com)
